@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, i'm Josué Viana 👋
 
 🎓 Systems Analysis and Development student  
 💼 Actively seeking my first opportunity in the software development field
