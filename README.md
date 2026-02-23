@@ -1,19 +1,20 @@
 ## Hi there 👋
 
-<!--
-**jvianar/jvianar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Systems Analysis and Development student  
+💼 Actively seeking my first opportunity in the software development field
 
-- 🎓 Systems Analysis and Development student  
-- 🌱 I’m currently learning 
-  Crud
-  Java
-  Goland
+🌱 **Currently learning**
+- CRUD 
+- Java
+- Golang
 
-  🚀 Technologies and Tools
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+---
 
--->
+🚀 **Technical Skills**
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java)](https://skillicons.dev)
+
+- 📫 How to reach me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josue-rocha-viana-filho-56a4443aa) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josuerochavianafilho@gmail.com)
+
