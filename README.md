@@ -4,9 +4,8 @@
 💼 Actively seeking my first opportunity in the software development field
 
 🌱 **Currently learning**
-- CRUD 
+- Python 
 - Java
-- Golang
 
 ---
 
